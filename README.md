@@ -1,6 +1,6 @@
 # Proxy
 A simple web proxy made as part of Coursework for CS3103 (Computer Networks
-Practice).
+Practice). Credits to @dvdweien :)
 
 ## Running the proxy
 
